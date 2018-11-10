@@ -1,4 +1,8 @@
-golang.org/x/tools v0.0.0-20181008205924-a2b3f7f249e9 h1:T3nuFyXXDj5KXX9CqQm/r/YEL4Gua01s/ZEdfdLyJ2c=
-golang.org/x/tools v0.0.0-20181008205924-a2b3f7f249e9/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
+github.com/marwan-at-work/tools v0.0.0-20181110050015-818b346849a4 h1:CXnVendB9ehME5HAFfUuNMm3Ol4a+7p2Im/tdkswo9E=
+github.com/marwan-at-work/tools v0.0.0-20181110050015-818b346849a4/go.mod h1:ynXdRM6NsFr7i5ZuVSUBlZcdu2ak75T3MnZ04fFXpYk=
+github.com/marwan-at-work/tools v0.0.0-20181110051345-57d1a9604df9 h1:MQMHL7zYmSz8PpuVCJWjou0OHtxhrNqxnTdpYMLbSjY=
+github.com/marwan-at-work/tools v0.0.0-20181110051345-57d1a9604df9/go.mod h1:ynXdRM6NsFr7i5ZuVSUBlZcdu2ak75T3MnZ04fFXpYk=
+github.com/marwan-at-work/tools v0.0.0-20181110062928-5dcf64991d47 h1:L+Yk6tc8NprrTthR/PFiXFIywSGjzIK/7nrfdEAd7PQ=
+github.com/marwan-at-work/tools v0.0.0-20181110062928-5dcf64991d47/go.mod h1:ynXdRM6NsFr7i5ZuVSUBlZcdu2ak75T3MnZ04fFXpYk=
 golang.org/x/tools v0.0.0-20181019005945-6adeb8aab2de h1:kT+Ec4AyesVdjJuyBnwnKai/sOSk8JMYn9jetb8bO5s=
 golang.org/x/tools v0.0.0-20181019005945-6adeb8aab2de/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
